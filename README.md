@@ -1,14 +1,14 @@
-# MIE1517
+# (MIE1517)Introduction to Deep Learning
 This course will provide an overview of deep learning techniques with engineering applications. Topics covered include: neural network architectures (CNNs, RNNs, and more.)
 
-# Course Description:
+# Course Description
 This course will provide an overview of deep learning techniques with engineering
 applications. Topics covered include: neural network architectures (CNNs, RNNs, and more.);
 model training and regularization; data augmentation; transfer learning; generative models;
 Ethics and fairness will play a prominent role in the course discussions. The course will follow
 an applied approach through several skill building assignments and a team-based project.
 
-# Course Goals:
+# Course Goals
 - Understand basic principles of artificial neural networks.
 - Understand advances that have enabled modern deep neural networks (regularization,
 optimization, autodifferentiation, GPU-based parallelization, novel architectural
